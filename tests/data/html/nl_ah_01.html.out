@@ -1,0 +1,16 @@
+{
+  'columns': [
+    {
+      'rows': [
+        { 'name': 'Energie', 'amount': '1141 kJ' },
+        { 'name': 'Energie', 'amount': '273 kcal' },
+        { 'name': 'Vet', 'amount': '10 g' },
+        { 'name': 'waarvan verzadigd', 'amount': '3.6 g' },
+        { 'name': 'Koolhydraten', 'amount': '25 g' },
+        { 'name': 'waarvan suikers', 'amount': '2.3 g' },
+        { 'name': 'Eiwitten', 'amount': '11 g' },
+        { 'name': 'Zout', 'amount': '0.9 g' },
+      ]
+    }
+  ]
+}
