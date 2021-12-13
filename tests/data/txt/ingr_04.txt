@@ -1,0 +1,14 @@
+Aardbei
+Ingredients:
+56,7% appel,25% aardbei,15% banaan,3% zwarte bes,<1% citrusvezels
+Nutrition:
+per 100g aardbei
+Energie : 224 kJ / 53 kcal,Vetten: 0 g,Waarvan verzadigde vetzuren: 0 g,Koolhydraten : 12 g,Waarvan suikers : 10 g,Vezels: 1,6 g,Eiwitten: 0,4 g,Zout : 0 g
+
+
+Banaan
+Ingredients:
+65% appel,35% banaan,<1% citroensap
+Nutrition:
+per 100g banaan
+Energie : 273 kJ / 64 kcal,Vetten: 0 g,Waarvan verzadigde vetzuren: 0 g,Koolhydraten : 15 g,Waarvan suikers : 13 g,Vezels: 1,2 g,Eiwitten: 0,5 g,Zout : 0 g

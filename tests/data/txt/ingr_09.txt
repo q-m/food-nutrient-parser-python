@@ -1,0 +1,9 @@
+Ingrediënten; Kaliumzout (KCL) 68,8%, Zout (NaCL) 29,9%, Antiklontermiddel (E504, E535), Kaliumjodide
+Ingrediënten; Zeezout
+Energie [ENER-] = 0
+Vet [FAT] = 0
+Verzadigd Vet [FASAT] = 0
+Koolhydraten [CHOAVL] = 0
+Waarvan Suikers [SUGAR] = 0
+Eiwitten [PRO-] = 0
+Zout [SALTEQ] = 0
