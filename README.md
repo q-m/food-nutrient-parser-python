@@ -101,6 +101,17 @@ columns: [
 ## Develop
 
 
+### Test
+
+Development is driven by data-tests in [`tests/data/`](./tests/data). At this moment, only the `html` parser
+is tested. Each file is run through the corresponding `parse` method, and if a `.out` file is present, the
+output is compared.
+
+The data tests can be run by: `python setup.py test`
+
+Doctests can be run by: `pytest --doctest-modules src`
+
+
 # License
 
 This project is licensed under the [MIT license](LICENSE).
